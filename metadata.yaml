@@ -1,5 +1,8 @@
 _repo: Auld-lang-syne_68517
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68517-h/images/cover.jpg
 creator:
   author:
     agent_name: Müller, F. Max (Friedrich Max)
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Max_M%C3%BCller
     - https://de.wikipedia.org/wiki/Friedrich_Max_M%C3%BCller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68517#Auld-lang-syne
 gutenberg_issued: '2022-07-13'
 identifiers:
   gutenberg: '68517'
